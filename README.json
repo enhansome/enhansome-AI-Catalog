@@ -1,370 +1,299 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🌟 Star History"
-    },
-    {
-      "description": "Welcome to the most comprehensive AI tools catalog! This repository contains 500+ carefully curated AI tools across 30+ categories. Each tool is tested and verified to ensure quality and relevance.",
-      "items": [],
-      "title": "🚀 Getting Started"
-    },
-    {
-      "description": "We welcome contributions! Please read our Contributing Guidelines before submitting a PR.",
-      "items": [],
-      "title": "🤝 Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ComfyUI 🆕🆓 - Node-based workflow interface",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 589831718,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T06:59:54Z",
+                    "owner": "Comfy-Org",
+                    "repo": "ComfyUI",
+                    "stars": 128401
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fooocus 🆓 - Simplified Stable Diffusion experience",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 676676006,
+                    "language": "Python",
+                    "last_commit": "2025-12-01T19:17:07Z",
+                    "owner": "lllyasviel",
+                    "repo": "Fooocus",
+                    "stars": 52408
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Forge UI 🆕🆓 - Optimized web UI fork",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 743116659,
+                    "language": "Python",
+                    "last_commit": "2025-07-31T01:33:17Z",
+                    "owner": "lllyasviel",
+                    "repo": "stable-diffusion-webui-forge",
+                    "stars": 12964
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🆓 Free & Open Source"
+            }
+          ],
+          "description": "Transform your ideas into stunning visuals with AI-powered image generation",
+          "node_type": "group",
+          "title": "Text to Image AI's"
+        }
+      ],
       "title": "🎨 Creative AI"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Text to Image AI's"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ComfyUI 🆕🆓 - Node-based workflow interface",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "llama.cpp 🆓 - C++ implementation for efficient inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612354784,
+                "language": "C++",
+                "last_commit": "2026-08-19T12:04:57Z",
+                "owner": "ggml-org",
+                "repo": "llama.cpp",
+                "stars": 124656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vLLM 🆕🆓 - High-throughput LLM serving",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599547518,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:38:35Z",
+                "owner": "vllm-project",
+                "repo": "vllm",
+                "stars": 89432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text Generation WebUI 🆓 - Web interface for local models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580642043,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:38:16Z",
+                "owner": "oobabooga",
+                "repo": "textgen",
+                "stars": 47551
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:11:35Z",
-            "owner": "Comfy-Org",
-            "repo": "ComfyUI",
-            "stars": 128276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fooocus 🆓 - Simplified Stable Diffusion experience",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-01T19:17:07Z",
-            "owner": "lllyasviel",
-            "repo": "Fooocus",
-            "stars": 52392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Forge UI 🆕🆓 - Optimized web UI fork",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-31T01:33:17Z",
-            "owner": "lllyasviel",
-            "repo": "stable-diffusion-webui-forge",
-            "stars": 12964
-          }
+          "node_type": "group",
+          "title": "🛠️ Self-Hosted Solutions"
         }
       ],
-      "title": "🆓 Free & Open Source"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧠 AI Assistants & Chat"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multi-modal"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🧠 Large Language Models (LLMs)"
     },
     {
-      "description": "",
+      "description": "AI-powered tools for creative writing, content creation, and text enhancement",
       "items": [
         {
-          "node_type": "item",
-          "title": "llama.cpp 🆓 - C++ implementation for efficient inference",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "llama.cpp 🆓 - Efficient LLM inference",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612354784,
+                "language": "C++",
+                "last_commit": "2026-08-19T12:04:57Z",
+                "owner": "ggml-org",
+                "repo": "llama.cpp",
+                "stars": 124656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text Generation Web UI 🆓 - Local text generation interface",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580642043,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:38:16Z",
+                "owner": "oobabooga",
+                "repo": "textgen",
+                "stars": 47551
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T18:27:23Z",
-            "owner": "ggml-org",
-            "repo": "llama.cpp",
-            "stars": 124526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vLLM 🆕🆓 - High-throughput LLM serving",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:17:31Z",
-            "owner": "vllm-project",
-            "repo": "vllm",
-            "stars": 89367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Text Generation WebUI 🆓 - Web interface for local models",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:38:16Z",
-            "owner": "oobabooga",
-            "repo": "textgen",
-            "stars": 47545
-          }
+          "node_type": "group",
+          "title": "🔧 Development & Technical Writing"
         }
       ],
-      "title": "🛠️ Self-Hosted Solutions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📝 Content & Writing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Summarizer"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Prompt Generator"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Writing"
     },
     {
-      "description": "",
+      "description": "AI systems that can independently perform tasks and workflows",
       "items": [
         {
-          "node_type": "item",
-          "title": "llama.cpp 🆓 - Efficient LLM inference",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoGPT 🆓 - GPT-4 powered autonomous agent",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614765452,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:48:27Z",
+                "owner": "Significant-Gravitas",
+                "repo": "AutoGPT",
+                "stars": 186683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrewAI 🆕🆓 - Multi-agent orchestration",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710601088,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:20:53Z",
+                "owner": "crewAIInc",
+                "repo": "crewAI",
+                "stars": 57307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BabyAGI 🆓 - Minimalist AI agent framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622737738,
+                "language": "Python",
+                "last_commit": "2026-01-31T05:05:45Z",
+                "owner": "yoheinakajima",
+                "repo": "babyagi",
+                "stars": 22349
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T18:27:23Z",
-            "owner": "ggml-org",
-            "repo": "llama.cpp",
-            "stars": 124526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Text Generation Web UI 🆓 - Local text generation interface",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:38:16Z",
-            "owner": "oobabooga",
-            "repo": "textgen",
-            "stars": 47545
-          }
+          "node_type": "group",
+          "title": "🆓 Open Source Agents"
         }
       ],
-      "title": "🔧 Development & Technical Writing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Copywriting"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Assistant"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Audio Editing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Video Generator"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Search Engines & Chatbot's"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Music"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Education Assistants"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🤖 Autonomous AI Agents"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AutoGPT 🆓 - GPT-4 powered autonomous agent",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:03:24Z",
-            "owner": "Significant-Gravitas",
-            "repo": "AutoGPT",
-            "stars": 186668
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrewAI 🆕🆓 - Multi-agent orchestration",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:15:30Z",
-            "owner": "crewAIInc",
-            "repo": "crewAI",
-            "stars": 57263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BabyAGI 🆓 - Minimalist AI agent framework",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-31T05:05:45Z",
-            "owner": "yoheinakajima",
-            "repo": "babyagi",
-            "stars": 22350
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Add new tools - Found an amazing AI tool? Submit it here",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660538103,
+                    "language": "Shell",
+                    "last_commit": "2026-03-18T11:32:54Z",
+                    "owner": "mehmetkahya0",
+                    "repo": "AI-Catalog",
+                    "stars": 487
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Report issues - Broken links or incorrect info? Report it",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660538103,
+                    "language": "Shell",
+                    "last_commit": "2026-03-18T11:32:54Z",
+                    "owner": "mehmetkahya0",
+                    "repo": "AI-Catalog",
+                    "stars": 487
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Suggest improvements - Ideas for better organization? Share them",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660538103,
+                    "language": "Shell",
+                    "last_commit": "2026-03-18T11:32:54Z",
+                    "owner": "mehmetkahya0",
+                    "repo": "AI-Catalog",
+                    "stars": 487
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "🚀 Quick Ways to Contribute"
+            }
+          ],
+          "description": "We welcome contributions from the community! Here's how you can help:",
+          "node_type": "group",
+          "title": "Contributing"
         }
       ],
-      "title": "🆓 Open Source Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI Detection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data Analysis & BI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Start-up Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI Productivity"
-    },
-    {
-      "description": "We welcome contributions from the community! Here's how you can help:",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Add new tools - Found an amazing AI tool? Submit it here",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-18T11:32:54Z",
-            "owner": "mehmetkahya0",
-            "repo": "AI-Catalog",
-            "stars": 487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Report issues - Broken links or incorrect info? Report it",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-18T11:32:54Z",
-            "owner": "mehmetkahya0",
-            "repo": "AI-Catalog",
-            "stars": 487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Suggest improvements - Ideas for better organization? Share them",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-18T11:32:54Z",
-            "owner": "mehmetkahya0",
-            "repo": "AI-Catalog",
-            "stars": 487
-          }
-        }
-      ],
-      "title": "🚀 Quick Ways to Contribute"
-    },
-    {
-      "description": "Thanks to all our amazing contributors who help make this catalog better every day!",
-      "items": [],
-      "title": "🏆 Contributors"
-    },
-    {
-      "description": "Released under GNU General Public License v3.0 by @mehmetkahya0.",
-      "items": [],
-      "title": "📄 License"
+      "title": "Image to Video"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:18:16.468Z",
+    "last_updated": "2026-08-19T12:05:36.406Z",
     "original_repository": "mehmetkahya0/AI-Catalog",
+    "original_repository_id": 660538103,
     "original_repository_sha": "636f46f5748707b2327ee3b5c82d67add94ae8e7",
     "enhanced_repository": "enhansome/enhansome-AI-Catalog",
     "enhanced_repository_description": null,
