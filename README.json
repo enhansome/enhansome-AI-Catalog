@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 589831718,
                     "language": "Python",
-                    "last_commit": "2026-08-25T18:33:07Z",
+                    "last_commit": "2026-08-26T21:00:17Z",
                     "owner": "Comfy-Org",
                     "repo": "ComfyUI",
-                    "stars": 129942
+                    "stars": 130141
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2025-12-01T19:17:07Z",
                     "owner": "lllyasviel",
                     "repo": "Fooocus",
-                    "stars": 52532
+                    "stars": 52550
                   }
                 },
                 {
@@ -82,7 +82,7 @@
                 "last_commit": "2024-08-12T12:49:54Z",
                 "owner": "meta-llama",
                 "repo": "codellama",
-                "stars": 16264
+                "stars": 16265
               }
             }
           ],
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-25T18:06:49Z",
+                "last_commit": "2026-08-26T19:39:13Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125607
+                "stars": 125790
               }
             },
             {
@@ -116,10 +116,10 @@
                 "archived": false,
                 "id": 599547518,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:16:10Z",
+                "last_commit": "2026-08-26T21:08:04Z",
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 90018
+                "stars": 90144
               }
             },
             {
@@ -134,7 +134,7 @@
                 "last_commit": "2026-08-17T17:38:16Z",
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47578
+                "stars": 47583
               }
             }
           ],
@@ -203,10 +203,10 @@
                 "archived": false,
                 "id": 612354784,
                 "language": "C++",
-                "last_commit": "2026-08-25T18:06:49Z",
+                "last_commit": "2026-08-26T19:39:13Z",
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 125607
+                "stars": 125790
               }
             },
             {
@@ -221,7 +221,7 @@
                 "last_commit": "2026-08-17T17:38:16Z",
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47578
+                "stars": 47583
               }
             }
           ],
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:17:01Z",
+                "last_commit": "2026-08-26T21:09:17Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186858
+                "stars": 186896
               }
             },
             {
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:04:10Z",
+                "last_commit": "2026-08-26T21:09:38Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57605
+                "stars": 57646
               }
             },
             {
@@ -279,7 +279,7 @@
                 "last_commit": "2026-01-31T05:05:45Z",
                 "owner": "yoheinakajima",
                 "repo": "babyagi",
-                "stars": 22357
+                "stars": 22356
               }
             }
           ],
@@ -298,10 +298,10 @@
                 "archived": false,
                 "id": 607289185,
                 "language": "C#",
-                "last_commit": "2026-08-25T10:44:29Z",
+                "last_commit": "2026-08-26T16:41:58Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28500
+                "stars": 28504
               }
             }
           ],
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:19:40.533Z",
+    "last_updated": "2026-08-26T21:18:45.592Z",
     "original_repository": "mehmetkahya0/AI-Catalog",
     "original_repository_id": 660538103,
     "original_repository_sha": "636f46f5748707b2327ee3b5c82d67add94ae8e7",
