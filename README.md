@@ -8,11 +8,11 @@
 
 *Note: I list the AIs I see while browsing the internet myself, so it can take a while to update the list!*
 
-[![GitHub Repo](https://img.shields.io/static/v1?label=mehmetkahya0\&message=AI-Catalog\&color=blue\&logo=github)](https://github.com/mehmetkahya0/AI-Catalog "Go to GitHub repo") ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-[![GitHub stars](https://img.shields.io/github/stars/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-[![GitHub forks](https://img.shields.io/github/forks/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-[![GitHub issues](https://img.shields.io/github/issues/mehmetkahya0/AI-Catalog)](https://github.com/mehmetkahya0/AI-Catalog/issues) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-[![GitHub last commit](https://img.shields.io/github/last-commit/mehmetkahya0/AI-Catalog)](https://github.com/mehmetkahya0/AI-Catalog/commits) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
+[![GitHub Repo](https://img.shields.io/static/v1?label=mehmetkahya0\&message=AI-Catalog\&color=blue\&logo=github)](https://github.com/mehmetkahya0/AI-Catalog "Go to GitHub repo") ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+[![GitHub stars](https://img.shields.io/github/stars/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+[![GitHub forks](https://img.shields.io/github/forks/mehmetkahya0/AI-Catalog?style=social)](https://github.com/mehmetkahya0/AI-Catalog) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+[![GitHub issues](https://img.shields.io/github/issues/mehmetkahya0/AI-Catalog)](https://github.com/mehmetkahya0/AI-Catalog/issues) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+[![GitHub last commit](https://img.shields.io/github/last-commit/mehmetkahya0/AI-Catalog)](https://github.com/mehmetkahya0/AI-Catalog/commits) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
 [![License](https://img.shields.io/badge/License-GNU_GPL-blue.svg)](#license)
 [![HitCount](https://hits.dwyl.com/mehmetkahya0/AI-Catalog.svg?style=flat-square)](http://hits.dwyl.com/mehmetkahya0/AI-Catalog)
 
@@ -135,9 +135,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆓 Free & Open Source
 
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 132,246 | 🐛 4,828 | 🌐 Python | 📅 2026-09-09** 🆕🆓 - Node-based workflow interface
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,950 | 🐛 314 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
-* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 12,997 | 🐛 1,159 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 132,384 | 🐛 4,844 | 🌐 Python | 📅 2026-09-10** 🆕🆓 - Node-based workflow interface
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 52,968 | 🐛 313 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
+* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 13,002 | 🐛 1,159 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
 * **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
 * **[Stable Diffusion XL](https://stability.ai)** 🆓 - High-resolution generation
 * **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
@@ -220,9 +220,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### 🛠️ Self-Hosted Solutions
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 127,644 | 🐛 2,454 | 🌐 C++ | 📅 2026-09-09** 🆓 - C++ implementation for efficient inference
-* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 91,363 | 🐛 7,784 | 🌐 Python | 📅 2026-09-09** 🆕🆓 - High-throughput LLM serving
-* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,641 | 🐛 839 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 127,744 | 🐛 2,470 | 🌐 C++ | 📅 2026-09-10** 🆓 - C++ implementation for efficient inference
+* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 91,435 | 🐛 7,841 | 🌐 Python | 📅 2026-09-10** 🆕🆓 - High-throughput LLM serving
+* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,650 | 🐛 839 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
 * **[Ollama](https://ollama.ai)** 🆓 - Run LLMs locally with ease
 * **[LM Studio](https://lmstudio.ai)** 🆓 - Desktop app for local LLMs
 * **[Open WebUI](https://openwebui.com)** 🆕🆓 - Self-hosted ChatGPT-like interface
@@ -331,8 +331,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🔧 Development & Technical Writing
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 127,644 | 🐛 2,454 | 🌐 C++ | 📅 2026-09-09** 🆓 - Efficient LLM inference
-* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,641 | 🐛 839 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 127,744 | 🐛 2,470 | 🌐 C++ | 📅 2026-09-10** 🆓 - Efficient LLM inference
+* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,650 | 🐛 839 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
 
 #### 📊 Analysis & Enhancement
 
@@ -717,15 +717,15 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆓 Open Source Agents
 
-* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,237 | 🐛 610 | 🌐 Python | 📅 2026-09-09** 🆓 - GPT-4 powered autonomous agent
-* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 58,295 | 🐛 753 | 🌐 Python | 📅 2026-09-09** 🆕🆓 - Multi-agent orchestration
-* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,352 | 🐛 29 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
+* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,246 | 🐛 582 | 🌐 Python | 📅 2026-09-10** 🆓 - GPT-4 powered autonomous agent
+* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 58,342 | 🐛 751 | 🌐 Python | 📅 2026-09-10** 🆕🆓 - Multi-agent orchestration
+* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,353 | 🐛 29 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
 * **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
 * **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
 
 #### 🛠️ Agent Frameworks
 
-* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,549 | 🐛 269 | 🌐 C# | 📅 2026-09-09** 🆓 - AI orchestration SDK
+* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,551 | 🐛 269 | 🌐 C# | 📅 2026-09-09** 🆓 - AI orchestration SDK
 * **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
 * **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
 
@@ -794,7 +794,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Deep Voice (Text to Speech & Speech to Speech)
 
 * [FakeYou](https://fakeyou.com)
-* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,172 | 🐛 572 | 🌐 Python | 📅 2026-08-04
+* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,194 | 🐛 573 | 🌐 Python | 📅 2026-08-04
 
 ## Start-up Tools
 
@@ -924,9 +924,9 @@ We welcome contributions from the community! Here's how you can help:
 
 ### 🚀 Quick Ways to Contribute
 
-* **Add new tools** - Found an amazing AI tool? [Submit it here](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=tool_submission.md) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-* **Report issues** - Broken links or incorrect info? [Report it](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=bug_report.md) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
-* **Suggest improvements** - Ideas for better organization? [Share them](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=feature_request.md) ⭐ 486 | 🐛 47 | 🌐 Shell | 📅 2026-03-18
+* **Add new tools** - Found an amazing AI tool? [Submit it here](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=tool_submission.md) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+* **Report issues** - Broken links or incorrect info? [Report it](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=bug_report.md) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
+* **Suggest improvements** - Ideas for better organization? [Share them](https://github.com/mehmetkahya0/AI-Catalog/issues/new?template=feature_request.md) ⭐ 486 | 🐛 46 | 🌐 Shell | 📅 2026-03-18
 
 ### 📋 Contribution Guidelines
 
@@ -950,4 +950,4 @@ Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
