@@ -135,9 +135,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆓 Free & Open Source
 
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 135,522 | 🐛 5,002 | 🌐 Python | 📅 2026-09-29** 🆕🆓 - Node-based workflow interface
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,235 | 🐛 314 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
-* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 13,039 | 🐛 1,161 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 135,644 | 🐛 5,022 | 🌐 Python | 📅 2026-09-30** 🆕🆓 - Node-based workflow interface
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,242 | 🐛 314 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
+* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 13,042 | 🐛 1,161 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
 * **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
 * **[Stable Diffusion XL](https://stability.ai)** 🆓 - High-resolution generation
 * **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
@@ -220,9 +220,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### 🛠️ Self-Hosted Solutions
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,896 | 🐛 2,566 | 🌐 C++ | 📅 2026-09-29** 🆓 - C++ implementation for efficient inference
-* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 92,958 | 🐛 8,394 | 🌐 Python | 📅 2026-09-29** 🆕🆓 - High-throughput LLM serving
-* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,723 | 🐛 843 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,990 | 🐛 2,550 | 🌐 C++ | 📅 2026-09-30** 🆓 - C++ implementation for efficient inference
+* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 93,004 | 🐛 8,405 | 🌐 Python | 📅 2026-09-30** 🆕🆓 - High-throughput LLM serving
+* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,721 | 🐛 844 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
 * **[Ollama](https://ollama.ai)** 🆓 - Run LLMs locally with ease
 * **[LM Studio](https://lmstudio.ai)** 🆓 - Desktop app for local LLMs
 * **[Open WebUI](https://openwebui.com)** 🆕🆓 - Self-hosted ChatGPT-like interface
@@ -331,8 +331,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🔧 Development & Technical Writing
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,896 | 🐛 2,566 | 🌐 C++ | 📅 2026-09-29** 🆓 - Efficient LLM inference
-* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,723 | 🐛 843 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 129,990 | 🐛 2,550 | 🌐 C++ | 📅 2026-09-30** 🆓 - Efficient LLM inference
+* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,721 | 🐛 844 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
 
 #### 📊 Analysis & Enhancement
 
@@ -717,15 +717,15 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆓 Open Source Agents
 
-* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,618 | 🐛 541 | 🌐 Python | 📅 2026-09-29** 🆓 - GPT-4 powered autonomous agent
-* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 59,193 | 🐛 503 | 🌐 Python | 📅 2026-09-29** 🆕🆓 - Multi-agent orchestration
-* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,363 | 🐛 30 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
+* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,630 | 🐛 567 | 🌐 Python | 📅 2026-09-30** 🆓 - GPT-4 powered autonomous agent
+* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 59,238 | 🐛 513 | 🌐 Python | 📅 2026-09-30** 🆕🆓 - Multi-agent orchestration
+* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,362 | 🐛 30 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
 * **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
 * **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
 
 #### 🛠️ Agent Frameworks
 
-* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,613 | 🐛 317 | 🌐 C# | 📅 2026-09-29** 🆓 - AI orchestration SDK
+* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,615 | 🐛 323 | 🌐 C# | 📅 2026-09-30** 🆓 - AI orchestration SDK
 * **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
 * **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
 
@@ -794,7 +794,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Deep Voice (Text to Speech & Speech to Speech)
 
 * [FakeYou](https://fakeyou.com)
-* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,608 | 🐛 581 | 🌐 Python | 📅 2026-08-04
+* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,620 | 🐛 582 | 🌐 Python | 📅 2026-08-04
 
 ## Start-up Tools
 
@@ -950,4 +950,4 @@ Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
