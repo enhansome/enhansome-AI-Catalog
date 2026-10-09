@@ -19,11 +19,11 @@
                     "id": 589831718,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-08T23:26:39Z",
-                    "open_issues": 5086,
+                    "last_commit": "2026-10-09T22:44:55Z",
+                    "open_issues": 5112,
                     "owner": "Comfy-Org",
                     "repo": "ComfyUI",
-                    "stars": 136444,
+                    "stars": 136633,
                     "topics": [
                       "ai",
                       "comfy",
@@ -51,7 +51,7 @@
                     "open_issues": 315,
                     "owner": "lllyasviel",
                     "repo": "Fooocus",
-                    "stars": 53335,
+                    "stars": 53346,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -72,7 +72,7 @@
                     "open_issues": 1160,
                     "owner": "lllyasviel",
                     "repo": "stable-diffusion-webui-forge",
-                    "stars": 13046,
+                    "stars": 13050,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -111,7 +111,7 @@
                 "open_issues": 116,
                 "owner": "meta-llama",
                 "repo": "codellama",
-                "stars": 16231,
+                "stars": 16230,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -135,11 +135,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:14:09Z",
-                "open_issues": 2494,
+                "last_commit": "2026-10-09T22:13:52Z",
+                "open_issues": 2498,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 130542,
+                "stars": 130658,
                 "topics": [
                   "ggml"
                 ]
@@ -158,11 +158,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T22:22:21Z",
-                "open_issues": 8632,
+                "last_commit": "2026-10-09T22:54:06Z",
+                "open_issues": 8691,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 93409,
+                "stars": 93459,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -204,7 +204,7 @@
                 "open_issues": 847,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47725,
+                "stars": 47726,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -257,7 +257,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Open-source text humanization pipeline with every intermediate step published. Two LLM rewrites at temp 1.3, then two hops across different NMT engines. Four documented methodologies you can read, modify, and run locally.",
+                "description": "Open-source AI humanizer that rewrites AI-generated text into natural, human-sounding writing. Structure-first SFT + KTO training-data pipeline plus a runnable translation-chain humanizer (DeepSeek, OpenRouter, n8n). Transparent, auditable, MIT.",
                 "homepage": "https://lynote.ai/ai-humanizer",
                 "id": 1242316635,
                 "language": "Python",
@@ -266,21 +266,23 @@
                 "open_issues": 29,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3213,
+                "stars": 3244,
                 "topics": [
                   "ai-humanizer",
+                  "ai-rewriter",
                   "ai-tools",
                   "ai-writing",
+                  "ai-writing-assistant",
                   "humanize-ai-text",
                   "humanize-text",
+                  "llm",
                   "n8n",
+                  "nlp",
                   "paraphrasing",
-                  "python",
                   "responsible-ai",
                   "text-humanizer",
                   "text-processing",
-                  "text-rewriting",
-                  "writing-assistant"
+                  "text-rewriting"
                 ]
               },
               "first_seen": "2026-10-04T22:00:51.555Z"
@@ -337,11 +339,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:14:09Z",
-                "open_issues": 2494,
+                "last_commit": "2026-10-09T22:13:52Z",
+                "open_issues": 2498,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 130542,
+                "stars": 130658,
                 "topics": [
                   "ggml"
                 ]
@@ -364,7 +366,7 @@
                 "open_issues": 847,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47725,
+                "stars": 47726,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -392,7 +394,7 @@
                 "open_issues": 4,
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 154,
+                "stars": 155,
                 "topics": [
                   "ai-detection",
                   "ai-plugin",
@@ -443,8 +445,8 @@
                 "id": 1129206072,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T18:32:14Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-09T14:39:36Z",
+                "open_issues": 11,
                 "owner": "yylo-dev",
                 "repo": "yylo",
                 "stars": 63,
@@ -485,7 +487,7 @@
                 "id": 1177098712,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T13:30:59Z",
+                "last_commit": "2026-10-09T13:18:35Z",
                 "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "Launchpad-CLI",
@@ -538,7 +540,7 @@
                 "open_issues": 0,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -589,11 +591,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T23:34:31Z",
-                "open_issues": 695,
+                "last_commit": "2026-10-09T22:38:18Z",
+                "open_issues": 690,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187486,
+                "stars": 187498,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -622,11 +624,11 @@
                 "id": 710601088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:30:13Z",
-                "open_issues": 573,
+                "last_commit": "2026-10-09T22:33:43Z",
+                "open_issues": 598,
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 59472,
+                "stars": 59508,
                 "topics": [
                   "agents",
                   "ai",
@@ -670,7 +672,7 @@
                 "id": 1224575142,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T01:10:53Z",
+                "last_commit": "2026-10-09T03:17:11Z",
                 "open_issues": 11,
                 "owner": "Orkas-AI",
                 "repo": "Orkas",
@@ -719,11 +721,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:33:35Z",
-                "open_issues": 347,
+                "last_commit": "2026-10-09T18:14:43Z",
+                "open_issues": 349,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28636,
+                "stars": 28635,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -765,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:34:37.201Z",
+    "last_updated": "2026-10-09T22:56:21.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
@@ -774,7 +776,7 @@
       "language": "HTML",
       "license": "GPL-3.0",
       "last_commit": "2026-10-07T21:33:57Z",
-      "open_issues": 4,
+      "open_issues": 6,
       "owner": "mehmetkahya0",
       "repo": "AI-Catalog",
       "stars": 493,
