@@ -19,11 +19,11 @@
                     "id": 589831718,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-20T21:54:51Z",
-                    "open_issues": 5300,
+                    "last_commit": "2026-10-21T21:59:02Z",
+                    "open_issues": 5312,
                     "owner": "Comfy-Org",
                     "repo": "ComfyUI",
-                    "stars": 140690,
+                    "stars": 141457,
                     "topics": [
                       "ai",
                       "comfy",
@@ -51,7 +51,7 @@
                     "open_issues": 315,
                     "owner": "lllyasviel",
                     "repo": "Fooocus",
-                    "stars": 53614,
+                    "stars": 53618,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -72,7 +72,7 @@
                     "open_issues": 1162,
                     "owner": "lllyasviel",
                     "repo": "stable-diffusion-webui-forge",
-                    "stars": 13072,
+                    "stars": 13073,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -135,11 +135,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-20T21:49:19Z",
-                "open_issues": 2562,
+                "last_commit": "2026-10-21T21:55:35Z",
+                "open_issues": 2567,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 131841,
+                "stars": 131944,
                 "topics": [
                   "ggml"
                 ]
@@ -158,11 +158,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T21:55:16Z",
-                "open_issues": 9150,
+                "last_commit": "2026-10-21T21:47:40Z",
+                "open_issues": 9267,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 94401,
+                "stars": 94824,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -204,7 +204,7 @@
                 "open_issues": 865,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47737,
+                "stars": 47734,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -266,7 +266,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3451,
+                "stars": 3455,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -344,11 +344,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-20T21:49:19Z",
-                "open_issues": 2562,
+                "last_commit": "2026-10-21T21:55:35Z",
+                "open_issues": 2567,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 131841,
+                "stars": 131944,
                 "topics": [
                   "ggml"
                 ]
@@ -371,7 +371,7 @@
                 "open_issues": 865,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47737,
+                "stars": 47734,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -492,7 +492,7 @@
                 "id": 1177098712,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T11:38:20Z",
+                "last_commit": "2026-10-21T11:50:18Z",
                 "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "Launchpad-CLI",
@@ -545,7 +545,7 @@
                 "open_issues": 1,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 912,
+                "stars": 914,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -596,11 +596,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T21:51:50Z",
-                "open_issues": 689,
+                "last_commit": "2026-10-21T21:57:59Z",
+                "open_issues": 722,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187675,
+                "stars": 187697,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -629,11 +629,11 @@
                 "id": 710601088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:27:29Z",
-                "open_issues": 781,
+                "last_commit": "2026-10-21T21:43:43Z",
+                "open_issues": 801,
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 59924,
+                "stars": 59963,
                 "topics": [
                   "agents",
                   "ai",
@@ -672,37 +672,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux.",
+                "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
                 "homepage": "https://orkas.ai?source=gh-orkas",
                 "id": 1224575142,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T02:46:46Z",
+                "last_commit": "2026-10-21T07:12:59Z",
                 "open_issues": 10,
                 "owner": "Orkas-AI",
                 "repo": "Orkas",
-                "stars": 2224,
+                "stars": 2233,
                 "topics": [
                   "agent-collaboration",
                   "agent-harness",
                   "agent-orchestration",
                   "agent-team",
+                  "agent-workflow",
                   "ai-assistant",
+                  "ai-automation",
+                  "ai-employee",
+                  "ai-productivity",
                   "ai-team",
                   "ai-workflow",
                   "autonomous-agents",
-                  "byo-llm",
                   "claude-code-gui",
                   "claude-cowork",
-                  "cowork",
                   "desktop-agent",
-                  "desktop-ai-agent",
-                  "desktop-app",
                   "local-first",
-                  "mcp-client",
                   "multi-agent",
                   "multi-agent-system",
-                  "self-evolving-agents"
+                  "self-evolving-agents",
+                  "task-automation"
                 ]
               },
               "first_seen": "2026-10-04T22:00:51.555Z"
@@ -726,11 +726,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-20T05:17:16Z",
-                "open_issues": 380,
+                "last_commit": "2026-10-21T17:02:22Z",
+                "open_issues": 383,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28681,
+                "stars": 28686,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -772,7 +772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T21:56:47.817Z",
+    "last_updated": "2026-10-21T22:00:57.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
@@ -780,8 +780,8 @@
       "id": 660538103,
       "language": "HTML",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-19T10:20:21Z",
-      "open_issues": 12,
+      "last_commit": "2026-10-21T12:52:03Z",
+      "open_issues": 4,
       "owner": "mehmetkahya0",
       "repo": "AI-Catalog",
       "stars": 497,
@@ -808,7 +808,7 @@
         "summarizer"
       ]
     },
-    "original_repository_sha": "108248d210012240ae4c5c3f9e85acb666baaf50",
+    "original_repository_sha": "311455fede000f46f51157982a1b97ba055a89d2",
     "enhanced_repository": "enhansome/enhansome-AI-Catalog",
     "enhanced_repository_description": null,
     "title": "Awesome 🤖 Huge AI Catalog V3.0 with stars"
