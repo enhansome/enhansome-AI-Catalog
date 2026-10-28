@@ -39,7 +39,7 @@
 <div align="center">
   <strong>⭐ If you find this catalog helpful, please consider giving it a star! ⭐</strong>
   <br><br>
-  <i>Last updated: October 21, 2026 | Next goal: 500 stars 🎯</i>
+  <i>Last updated: October 28, 2026 | Next goal: 500 stars 🎯</i>
   <br><br>
   <i>🤖 Thanks to Claude Sonnet 4 for write .sh files! </i>
 </div>
@@ -106,7 +106,7 @@ Welcome to the most comprehensive AI tools catalog! This repository contains **5
 
 * **Total Tools**: 500+
 * **Categories**: 40+
-* **Last Updated**: October 21, 2026
+* **Last Updated**: October 28, 2026
 * **Contributors**: Open for PRs!
 * **Next Goal**: ⭐️ 500 stars
 
@@ -151,9 +151,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🆓 Free & Open Source
 
-* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,554 | 🐛 5,371 | 🌐 Python | 📅 2026-10-27** 🆕🆓 - Node-based workflow interface
-* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,705 | 🐛 314 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
-* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 13,086 | 🐛 1,164 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
+* **[ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 143,782 | 🐛 5,380 | 🌐 Python | 📅 2026-10-28** 🆕🆓 - Node-based workflow interface
+* **[Fooocus](https://github.com/lllyasviel/Fooocus) ⭐ 53,722 | 🐛 314 | 🌐 Python | 📅 2025-12-01** 🆓 - Simplified Stable Diffusion experience
+* **[Forge UI](https://github.com/lllyasviel/stable-diffusion-webui-forge) ⭐ 13,089 | 🐛 1,164 | 🌐 Python | 📅 2025-07-31** 🆕🆓 - Optimized web UI fork
 * **[Stable Diffusion 3.5](https://stability.ai)** 🆕🆓 - Latest open-source foundation model
 * **[Stable Diffusion XL](https://stability.ai)** 🆓 - High-resolution generation
 * **[Craiyon](https://www.craiyon.com)** 🆓 - Free and easy-to-use generator
@@ -174,6 +174,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 #### 🆕 Specialized Tools
 
 * **[ArtImageHub](https://artimagehub.com/old-photo-restoration)** 🔄 - AI old photo restoration that fixes scratches, fading and water damage
+* **[APPLORE](https://applore.app/ai-app-icon-generator)** 🔄 - AI app icon generator for iOS and Android using App Store icons as style references
+* **[Cutout.Free](https://cutout.free/)** 🆓 - Free browser background remover that exports transparent PNG, no account needed
 * **[Plykit](https://plykit.ai/kdp/coloring-book-maker)** 🔄 - Generate coloring pages and assemble KDP books with covers and PDF export
 * **[Recraft AI](https://app.recraft.ai)** 🔄 - Vector and brand-focused generation
 * **[Krea AI](https://krea.ai)** 🆕🔄 - Real-time image generation
@@ -184,6 +186,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[Skybox Lab](https://skybox.blockadelabs.com)** 🔄 - 360° skybox generation
 * **[RestorePhoto](https://restorephoto.org/)** 🔄 - Restores facial clarity in old and blurry photos
 * **[UpRes](https://upres.ai)** 🆕🔄 - AI image and video upscaling to 4K/8K with 14 models, REST API, and CLI
+* **[FontVibe](https://fontvibe.ai)** 🔄 - Text effect and lettering designs for logos, posters and thumbnails
 
 #### 📱 Browser/Extension Tools
 
@@ -225,7 +228,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🛠️ Self-Hosted Options
 
-* **[AI Runner](https://github.com/Capsize-Games/airunner) ⭐ 1,319 | 🐛 47 | 🌐 Python | 📅 2026-10-25** 🆓 - Local AI model runner with GUI
+* **[AI Runner](https://github.com/Capsize-Games/airunner) ⭐ 1,319 | 🐛 47 | 🌐 Python | 📅 2026-10-27** 🆓 - Local AI model runner with GUI
 * **[Jan](https://jan.ai)** 🆓 - Open-source ChatGPT alternative
 
 ***
@@ -264,16 +267,16 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ### 🛠️ Self-Hosted Solutions
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 132,560 | 🐛 2,590 | 🌐 C++ | 📅 2026-10-27** 🆓 - C++ implementation for efficient inference
-* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 95,708 | 🐛 9,610 | 🌐 Python | 📅 2026-10-27** 🆕🆓 - High-throughput LLM serving
-* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,725 | 🐛 866 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 132,669 | 🐛 2,591 | 🌐 C++ | 📅 2026-10-28** 🆓 - C++ implementation for efficient inference
+* **[vLLM](https://github.com/vllm-project/vllm) ⭐ 95,785 | 🐛 9,636 | 🌐 Python | 📅 2026-10-28** 🆕🆓 - High-throughput LLM serving
+* **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,723 | 🐛 866 | 🌐 Python | 📅 2026-08-17** 🆓 - Web interface for local models
 * **[Ollama](https://ollama.ai)** 🆓 - Run LLMs locally with ease
 * **[LM Studio](https://lmstudio.ai)** 🆓 - Desktop app for local LLMs
 * **[Open WebUI](https://openwebui.com)** 🆕🆓 - Self-hosted ChatGPT-like interface
 
 ### 🔬 Research & Experimental
 
-* **[WizardLM 2](https://github.com/nlpxucan/WizardLM) ⭐ 9,472 | 🐛 169 | 🌐 Python | 📅 2025-06-07** 🆕🆓 - Improved instruction-following
+* **[WizardLM 2](https://github.com/nlpxucan/WizardLM) ⭐ 9,470 | 🐛 169 | 🌐 Python | 📅 2025-06-07** 🆕🆓 - Improved instruction-following
 * **[Falcon 2](https://huggingface.co/tiiuae)** 🆓 - UAE's latest open-source model
 * **[Yi-1.5](https://huggingface.co/01-ai)** 🆕🆓 - 01.AI's bilingual model
 * **[Vicuna](https://vicuna.lmsys.org)** 🆓 - UC Berkeley's ChatGPT alternative
@@ -359,7 +362,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### ✨ General Writing Assistants
 
-* **[Humanize-Text](https://github.com/lynote-ai/humanize-text) ⭐ 3,458 | 🐛 38 | 🌐 Python | 📅 2026-10-22** 🆓 - Open-source multi-stage text rewriting toolkit
+* **[Humanize-Text](https://github.com/lynote-ai/humanize-text) ⭐ 3,461 | 🐛 38 | 🌐 Python | 📅 2026-10-22** 🆓 - Open-source multi-stage text rewriting toolkit
 * **[ChatGPT](https://chat.openai.com)** 🔄 - Versatile AI writing assistant
 * **[Dearovo](https://www.dearovo.com/)** 🔄 - AI relationship message writer with context, tone, and length controls.
 * **[Notion AI](https://notion.so/ai)** 💰 - Integrated writing tools in Notion
@@ -384,8 +387,8 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🔧 Development & Technical Writing
 
-* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 132,560 | 🐛 2,590 | 🌐 C++ | 📅 2026-10-27** 🆓 - Efficient LLM inference
-* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,725 | 🐛 866 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
+* **[llama.cpp](https://github.com/ggerganov/llama.cpp) ⭐ 132,669 | 🐛 2,591 | 🌐 C++ | 📅 2026-10-28** 🆓 - Efficient LLM inference
+* **[Text Generation Web UI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,723 | 🐛 866 | 🌐 Python | 📅 2026-08-17** 🆓 - Local text generation interface
 
 #### 📊 Analysis & Enhancement
 
@@ -441,12 +444,13 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### 🤖 Autonomous Coding Agents
 
-* **[YYLO](https://github.com/yylo-dev/yylo) ⭐ 66 | 🐛 15 | 🌐 Python | 📅 2026-10-23** 🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries
-* **[Claude Code Launchpad](https://github.com/noambrand/kivun-terminal) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2026-10-26** 🆕🆓 - 2-minute Windows & macOS installer for Claude Code — status bar, folder picker, auto-setup
+* **[YYLO](https://github.com/yylo-dev/yylo) ⭐ 66 | 🐛 16 | 🌐 Python | 📅 2026-10-28** 🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries
+* **[Claude Code Launchpad](https://github.com/noambrand/kivun-terminal) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2026-10-28** 🆕🆓 - 2-minute Windows & macOS installer for Claude Code — status bar, folder picker, auto-setup
 * **[Devin AI](https://devin.ai)** 🆕💰 - Autonomous software engineer
 * **[Claude Code](https://anthropic.com/claude-code)** 🆕🔄 - Agentic CLI tool for developers
 * **[OpenAI Codex](https://openai.com/codex)** 💰 - Code generation API
 * **[Aider](https://aider.chat)** 🆕🆓 - Terminal-based pair programming
+* **[Sqwakie](https://sqwakie.si)** 🆕🔄 - Live dashboard for team Claude Code and Codex agents that talk over MCP
 
 #### 💻 Code Assistants
 
@@ -458,7 +462,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 #### � Open Source Tools
 
-* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 899 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24** 🆓 - Self-improving QA agent for natural-language web and mobile tests
+* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-28** 🆓 - Self-improving QA agent for natural-language web and mobile tests
 * **[Continue](https://continue.dev)** 🆕🆓 - Open-source VS Code/JetBrains assistant
 * **[Replit Ghostwriter](https://replit.com)** 🔄 - Collaborative coding with AI
 * **[Phind](https://phind.com)** 🆓 - AI search engine for developers
@@ -481,6 +485,10 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * Context
 * [BuyWhere](https://buywhere.ai) - Real-time Singapore e-commerce pricing API and MCP server for AI agents
 * **[Latchkey](https://latchkey.dev)** 💰 - Self-healing GitHub Actions runners with AI diagnosis
+* **[deed.page](https://deed.page)** 🔄 - MCP server and API that let AI agents publish HTML to a permanent URL
+* **[UI Verify](https://uiverify.ai)** 🔄 - Visual regression testing with an AI judge that triages UI diffs
+* **[BetterToken](https://bettertoken.ai)** 💰 - LLM API gateway: one key for Claude, GPT, DeepSeek, Qwen, Kimi and GLM
+* **[Scalekit](https://scalekit.com)** 🔄 - AI agent integration platform: 600+ connectors, 35,000+ tools, per-user OAuth
 
 ## Low Code - no code Tools
 
@@ -564,7 +572,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[Hotel Lobby AI](https://hotellobbyai.top/)** 🆕🔄 - Two uploaded photos become a cinematic duet clip on a staged hotel lobby
 * **[UGCFast](https://ugcfast.ai)** 💰 - Persona-matched AI UGC video ads for Meta and TikTok from a product URL
 * **[AI Baby Dance](https://aibabydance.com)** 🔄 - Turn baby photos into short AI dance videos
-* **[pitchboom.io](https://pitchboom.io)** 🆕💰 - Turns a product URL or brief into motion-design video ads
+* **[pitchboom.io](https://pitchboom.io)** 🆕🔄 - Turns a product URL or brief into motion-design video ads
 
 #### 🆕 Emerging Platforms
 
@@ -574,7 +582,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[Pika 2.0](https://pika.art)** 🆕🔄 - Scene manipulation features
 * **[Vidnoz](https://vidnoz.com)** 🔄 - AI video generator
 * **[Deepshot AI](https://deepshot.ai)** 🔄 - Video reshooting tool
-* **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent studio and API for Seedance 2.0 and 2.5 video generation
+* **[SeedanceCheap](https://seedancecheap.com/)** 💰 - Independent Seedance 2.5 video studio and API
 * **[TubeTube](https://www.tubetube.io)** 🆕🔄 - Lyrics or story to a multi-scene video with consistent characters
 
 ## 3D
@@ -675,6 +683,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * Voyager
 * GPT games
 * Chess
+* **[ScanChess](https://scanchess.com)** 🔄 - Chess OCR: turn board photos into FEN, scoresheets into PGN
 * Siege GPT
 * Human Or Not
 * Ludo
@@ -804,19 +813,20 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[Anthropic Computer Use](https://anthropic.com)** 🆕💰 - GUI-based computer control
 * **[Manus AI](https://manus.ai)** 🆕🔄 - Cloud-based autonomous system
 * **[Drevon](https://www.drevon.dev)** 🆓 - Mac app that turns Claude Code or Codex into a go-to-market operator
+* **[Deacon](https://heydeacon.com)** 🆕🔄 - AI support agent for websites that answers from your own docs
 
 #### 🆓 Open Source Agents
 
-* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,789 | 🐛 704 | 🌐 Python | 📅 2026-10-27** 🆓 - GPT-4 powered autonomous agent
-* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 60,180 | 🐛 872 | 🌐 Python | 📅 2026-10-27** 🆕🆓 - Multi-agent orchestration
-* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,354 | 🐛 33 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
-* **[Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 2,185 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-27** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
+* **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,804 | 🐛 751 | 🌐 Python | 📅 2026-10-28** 🆓 - GPT-4 powered autonomous agent
+* **[CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 60,223 | 🐛 879 | 🌐 Python | 📅 2026-10-28** 🆕🆓 - Multi-agent orchestration
+* **[BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,352 | 🐛 33 | 🌐 Python | 📅 2026-01-31** 🆓 - Minimalist AI agent framework
+* **[Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 2,876 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-28** 🆓 - Local-first desktop AI workforce coordinated by a Commander through one chat
 * **[LangChain Agents](https://langchain.com)** 🆓 - LLM agent development framework
 * **[AgentGPT](https://agentgpt.reworkd.ai)** 🆓 - Browser-based autonomous agent
 
 #### 🛠️ Agent Frameworks
 
-* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,709 | 🐛 338 | 🌐 C# | 📅 2026-10-27** 🆓 - AI orchestration SDK
+* **[Semantic Kernel](https://github.com/microsoft/semantic-kernel) ⭐ 28,711 | 🐛 320 | 🌐 C# | 📅 2026-10-28** 🆓 - AI orchestration SDK
 * **[grugbot420](https://github.com/grug-group420/grugbot420) ⭐ 10 | 🐛 2 | 🌐 Julia | 📅 2026-07-09** 🆓 - Neuromorphic cognitive engine in Julia for multi-model AI orchestration
 * **[LangGraph](https://langchain.com)** 🆕🆓 - Stateful agent workflows
 * **[AutoGen](https://microsoft.github.io/autogen/)** 🆕🆓 - Microsoft's multi-agent framework
@@ -826,6 +836,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * [Clipdrop](https://clipdrop.co)
 * [insightface.ai](https://insightface.ai)
 * **[PixPurge](https://pixpurge.com)** 🔄 - AI text remover for images: erase text, watermarks, and date stamps automatically.
+* **[Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo)** 🔄 - Local offline AI image editor: watermark & object removal, cutout, upscaling
 
 ## Chrome AI Extensions
 
@@ -845,6 +856,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * [Ai resume builder](http://Kickresume.com)
 * [ResumeAI](https://withresumeai.com/)
 * **[CareJobs.Now](https://carejobs.now)** 🆓 - AI job search matching US healthcare workers to open hospital jobs
+* **[ArtiGram](https://artigram.cafeboon.com)** 🆓 - Publish AI-made HTML, React or SVG as live pages, with a remote MCP server
 
 ## Landing Page Generator
 
@@ -890,7 +902,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Deep Voice (Text to Speech & Speech to Speech)
 
 * [FakeYou](https://fakeyou.com)
-* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,906 | 🐛 588 | 🌐 Python | 📅 2026-08-04
+* [RVC GUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) ⭐ 38,920 | 🐛 588 | 🌐 Python | 📅 2026-08-04
 
 ## Start-up Tools
 
@@ -922,6 +934,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[LogNorm](https://lognorm.com)** 🔄 - Hosted MCP server that sends your SEO/GEO backlog to Claude Code, Codex and Cursor
 * **[Kamply](https://kamplyapp.com)** 💰 - Mac marketing crew that builds posts, reels, ads and decks with Claude Code or Codex
 * **[Pulse](https://pulsecorp.co)** 💰 - AI-moderated market research platform that runs customer interviews at scale
+* **[BulkPublish](https://www.bulkpublish.com)** 🔄 - Social media scheduler for 15 platforms with AI captions and an MCP server
 
 ## AI Productivity
 
@@ -933,6 +946,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 * **[Remio](https://remio.ai/)** 🔄 - Local-first AI knowledge base for personal context retrieval
 * **[Todoist](https://todoist.com)** 🔄 - Task management with AI assistance
 * **[Motion](https://usemotion.com)** 💰 - AI calendar and task planner
+* **[NeverApply](https://neverapply.co)** 🔄 - AI job-search agent: matches jobs, tailors resumes, and applies with your approval.
 * **[Reclaim.ai](https://reclaim.ai)** 🔄 - AI calendar scheduling
 
 #### 📧 Communication
@@ -1057,4 +1071,4 @@ Released under [GNU General Public License v3.0](LICENSE) by [@mehmetkahya0](htt
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
