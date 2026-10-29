@@ -19,11 +19,11 @@
                     "id": 589831718,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-28T20:05:57Z",
-                    "open_issues": 5380,
+                    "last_commit": "2026-10-29T22:24:23Z",
+                    "open_issues": 5387,
                     "owner": "Comfy-Org",
                     "repo": "ComfyUI",
-                    "stars": 143782,
+                    "stars": 143986,
                     "topics": [
                       "ai",
                       "comfy",
@@ -48,10 +48,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2025-12-01T19:17:07Z",
-                    "open_issues": 314,
+                    "open_issues": 315,
                     "owner": "lllyasviel",
                     "repo": "Fooocus",
-                    "stars": 53722,
+                    "stars": 53735,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -72,7 +72,7 @@
                     "open_issues": 1164,
                     "owner": "lllyasviel",
                     "repo": "stable-diffusion-webui-forge",
-                    "stars": 13089,
+                    "stars": 13095,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -135,11 +135,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-28T22:52:51Z",
-                "open_issues": 2591,
+                "last_commit": "2026-10-29T22:12:15Z",
+                "open_issues": 2581,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132669,
+                "stars": 132776,
                 "topics": [
                   "ggml"
                 ]
@@ -158,11 +158,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T22:53:48Z",
-                "open_issues": 9636,
+                "last_commit": "2026-10-29T21:58:49Z",
+                "open_issues": 9619,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 95785,
+                "stars": 95864,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -201,10 +201,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-17T17:38:16Z",
-                "open_issues": 866,
+                "open_issues": 867,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47723,
+                "stars": 47729,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -232,7 +232,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9470,
+                "stars": 9469,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -266,7 +266,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3461,
+                "stars": 3467,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -344,11 +344,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-28T22:52:51Z",
-                "open_issues": 2591,
+                "last_commit": "2026-10-29T22:12:15Z",
+                "open_issues": 2581,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132669,
+                "stars": 132776,
                 "topics": [
                   "ggml"
                 ]
@@ -368,10 +368,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-17T17:38:16Z",
-                "open_issues": 866,
+                "open_issues": 867,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47723,
+                "stars": 47729,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -492,7 +492,7 @@
                 "id": 1177098712,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T12:56:16Z",
+                "last_commit": "2026-10-29T13:02:39Z",
                 "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "Launchpad-CLI",
@@ -545,7 +545,7 @@
                 "open_issues": 6,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 901,
+                "stars": 909,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -596,11 +596,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T22:53:30Z",
-                "open_issues": 751,
+                "last_commit": "2026-10-29T22:55:29Z",
+                "open_issues": 746,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187804,
+                "stars": 187815,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -629,11 +629,11 @@
                 "id": 710601088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T22:01:50Z",
-                "open_issues": 879,
+                "last_commit": "2026-10-29T18:30:20Z",
+                "open_issues": 892,
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 60223,
+                "stars": 60262,
                 "topics": [
                   "agents",
                   "ai",
@@ -660,7 +660,7 @@
                 "open_issues": 33,
                 "owner": "yoheinakajima",
                 "repo": "babyagi",
-                "stars": 22352,
+                "stars": 22351,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -677,11 +677,11 @@
                 "id": 1224575142,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T01:09:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-29T01:11:08Z",
+                "open_issues": 3,
                 "owner": "Orkas-AI",
                 "repo": "Orkas",
-                "stars": 2876,
+                "stars": 3889,
                 "topics": [
                   "agent-collaboration",
                   "agent-harness",
@@ -726,11 +726,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T14:09:19Z",
-                "open_issues": 320,
+                "last_commit": "2026-10-29T17:34:33Z",
+                "open_issues": 335,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28711,
+                "stars": 28718,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -772,7 +772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:53:56.012Z",
+    "last_updated": "2026-10-29T23:01:08.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
@@ -780,11 +780,11 @@
       "id": 660538103,
       "language": "HTML",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-28T12:06:31Z",
-      "open_issues": 10,
+      "last_commit": "2026-10-29T11:34:35Z",
+      "open_issues": 8,
       "owner": "mehmetkahya0",
       "repo": "AI-Catalog",
-      "stars": 499,
+      "stars": 500,
       "topics": [
         "agents",
         "ai",
@@ -808,7 +808,7 @@
         "summarizer"
       ]
     },
-    "original_repository_sha": "a472c2a5ff1084ea188298e091a34f751dcdfb9a",
+    "original_repository_sha": "0bc6866482b75fe14c6e096588430cf947cea9e4",
     "enhanced_repository": "enhansome/enhansome-AI-Catalog",
     "enhanced_repository_description": null,
     "title": "Awesome 🤖 Huge AI Catalog V3.0 with stars"
