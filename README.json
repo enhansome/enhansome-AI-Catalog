@@ -19,11 +19,11 @@
                     "id": 589831718,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T18:03:19Z",
-                    "open_issues": 5397,
+                    "last_commit": "2026-11-01T22:24:42Z",
+                    "open_issues": 5413,
                     "owner": "Comfy-Org",
                     "repo": "ComfyUI",
-                    "stars": 144348,
+                    "stars": 144480,
                     "topics": [
                       "ai",
                       "comfy",
@@ -51,7 +51,7 @@
                     "open_issues": 315,
                     "owner": "lllyasviel",
                     "repo": "Fooocus",
-                    "stars": 53775,
+                    "stars": 53794,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -72,7 +72,7 @@
                     "open_issues": 1164,
                     "owner": "lllyasviel",
                     "repo": "stable-diffusion-webui-forge",
-                    "stars": 13101,
+                    "stars": 13102,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:55:42.926Z"
@@ -81,6 +81,51 @@
               "description": null,
               "node_type": "group",
               "title": "🆓 Free & Open Source"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Breatic",
+                  "description": "🔄 - Real-time collaborative AI documents and canvases for creative teams",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The real-time collaborative AI workspace for creative teams",
+                    "homepage": "https://breatic.ai",
+                    "id": 1220651210,
+                    "language": "TypeScript",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-01T13:39:34Z",
+                    "open_issues": 2,
+                    "owner": "orime-org",
+                    "repo": "breatic",
+                    "stars": 4,
+                    "topics": [
+                      "ai-agents",
+                      "collaborative-editing",
+                      "crdt",
+                      "creative-tools",
+                      "document-editor",
+                      "generative-ai",
+                      "hocuspocus",
+                      "image-generation",
+                      "infinite-canvas",
+                      "multimodal",
+                      "react",
+                      "real-time-collaboration",
+                      "self-hosted",
+                      "typescript",
+                      "video-generation",
+                      "yjs"
+                    ]
+                  },
+                  "first_seen": "2026-11-01T22:28:31.650Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "📱 Browser/Extension Tools"
             }
           ],
           "description": "Transform your ideas into stunning visuals with AI-powered image generation",
@@ -135,11 +180,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:45:38Z",
-                "open_issues": 2609,
+                "last_commit": "2026-11-01T17:23:46Z",
+                "open_issues": 2610,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132983,
+                "stars": 133080,
                 "topics": [
                   "ggml"
                 ]
@@ -158,11 +203,11 @@
                 "id": 599547518,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T21:23:05Z",
-                "open_issues": 9666,
+                "last_commit": "2026-11-01T18:27:46Z",
+                "open_issues": 9720,
                 "owner": "vllm-project",
                 "repo": "vllm",
-                "stars": 95997,
+                "stars": 96072,
                 "topics": [
                   "amd",
                   "blackwell",
@@ -204,7 +249,7 @@
                 "open_issues": 867,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47727,
+                "stars": 47725,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -232,7 +277,7 @@
                 "open_issues": 169,
                 "owner": "nlpxucan",
                 "repo": "WizardLM",
-                "stars": 9471,
+                "stars": 9472,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -266,7 +311,7 @@
                 "open_issues": 38,
                 "owner": "lynote-ai",
                 "repo": "humanize-text",
-                "stars": 3478,
+                "stars": 3479,
                 "topics": [
                   "ai-humanizer",
                   "ai-humanizer-api",
@@ -315,7 +360,7 @@
                 "open_issues": 53,
                 "owner": "henk717",
                 "repo": "KoboldAI",
-                "stars": 440,
+                "stars": 439,
                 "topics": [
                   "generativeai",
                   "story-generation",
@@ -344,11 +389,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:45:38Z",
-                "open_issues": 2609,
+                "last_commit": "2026-11-01T17:23:46Z",
+                "open_issues": 2610,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 132983,
+                "stars": 133080,
                 "topics": [
                   "ggml"
                 ]
@@ -371,7 +416,7 @@
                 "open_issues": 867,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47727,
+                "stars": 47725,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:42.926Z"
@@ -399,7 +444,7 @@
                 "open_issues": 6,
                 "owner": "MohamedAbdallah-14",
                 "repo": "unslop",
-                "stars": 166,
+                "stars": 170,
                 "topics": [
                   "ai-detection",
                   "ai-plugin",
@@ -440,6 +485,44 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Volt",
+              "description": "🆕🆓 - Open-source VS Code-core editor driving Claude Code, Codex and Ollama models over ACP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An open-source cursor alternative, supporting local and frontier harnesses, built on VS Code.",
+                "homepage": "https://getvolt.dev",
+                "id": 1414044908,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-01T21:48:49Z",
+                "open_issues": 3,
+                "owner": "LeulAria",
+                "repo": "volt",
+                "stars": 19,
+                "topics": [
+                  "agent-client-protocol",
+                  "ai-agents",
+                  "code-editor",
+                  "coding-agents",
+                  "developer-tools",
+                  "electron",
+                  "mcp",
+                  "typescript",
+                  "vscode"
+                ]
+              },
+              "first_seen": "2026-11-01T22:28:31.650Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔥 AI-Native Code Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "YYLO",
               "description": "🆓 - Command-line orchestrator for coding agents with typed task, validation, and merge boundaries",
               "children": [],
@@ -450,8 +533,8 @@
                 "id": 1129206072,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T19:35:22Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-01T14:13:20Z",
+                "open_issues": 17,
                 "owner": "yylo-dev",
                 "repo": "yylo",
                 "stars": 66,
@@ -482,6 +565,48 @@
             },
             {
               "node_type": "item",
+              "title": "Mercury CLI",
+              "description": "🆕🆓 - Terminal coding agent: parallel sessions, git-worktree crewmates, 22 providers or local models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mercury CLI: multiple AI coding sessions in one terminal. Mix and match provider and locally hosted models, spawn cross-company agents & workflows, and use built-in debugging, IDE built-in, screen control, and voice dictation.",
+                "homepage": "https://mercury-cli.ai",
+                "id": 1356553004,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-01T06:03:30Z",
+                "open_issues": 0,
+                "owner": "Whq02",
+                "repo": "MercuryCLI",
+                "stars": 27,
+                "topics": [
+                  "agentic",
+                  "agents",
+                  "ai",
+                  "anthropic",
+                  "cli",
+                  "coding-agent",
+                  "deepseek",
+                  "developer-tools",
+                  "gemini",
+                  "grok",
+                  "harness",
+                  "harness-cli",
+                  "llm",
+                  "mcp",
+                  "mercury-cli",
+                  "mistral",
+                  "ollama",
+                  "openai",
+                  "qwen",
+                  "terminal"
+                ]
+              },
+              "first_seen": "2026-11-01T22:28:31.650Z"
+            },
+            {
+              "node_type": "item",
               "title": "Claude Code Launchpad",
               "description": "🆕🆓 - 2-minute Windows & macOS installer for Claude Code — status bar, folder picker, auto-setup",
               "children": [],
@@ -492,7 +617,7 @@
                 "id": 1177098712,
                 "language": "HTML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T12:31:37Z",
+                "last_commit": "2026-11-01T13:25:58Z",
                 "open_issues": 0,
                 "owner": "noambrand",
                 "repo": "Launchpad-CLI",
@@ -541,11 +666,11 @@
                 "id": 1232322871,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T21:32:44Z",
+                "last_commit": "2026-11-01T22:26:51Z",
                 "open_issues": 7,
                 "owner": "vostride",
                 "repo": "agent-qa",
-                "stars": 913,
+                "stars": 915,
                 "topics": [
                   "ai-agents",
                   "ai-testing",
@@ -596,11 +721,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T20:13:49Z",
-                "open_issues": 753,
+                "last_commit": "2026-11-01T22:20:13Z",
+                "open_issues": 760,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187848,
+                "stars": 187858,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -629,11 +754,11 @@
                 "id": 710601088,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T08:57:18Z",
-                "open_issues": 971,
+                "last_commit": "2026-11-01T21:45:36Z",
+                "open_issues": 987,
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 60351,
+                "stars": 60394,
                 "topics": [
                   "agents",
                   "ai",
@@ -677,11 +802,11 @@
                 "id": 1224575142,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T03:36:24Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-01T01:24:48Z",
+                "open_issues": 9,
                 "owner": "Orkas-AI",
                 "repo": "Orkas",
-                "stars": 6093,
+                "stars": 7175,
                 "topics": [
                   "agent-collaboration",
                   "agent-harness",
@@ -727,7 +852,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-31T00:48:15Z",
-                "open_issues": 342,
+                "open_issues": 343,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28725,
@@ -772,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:57:11.603Z",
+    "last_updated": "2026-11-01T22:28:31.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
@@ -780,8 +905,8 @@
       "id": 660538103,
       "language": "HTML",
       "license": "GPL-3.0",
-      "last_commit": "2026-10-29T11:34:35Z",
-      "open_issues": 14,
+      "last_commit": "2026-11-01T15:56:15Z",
+      "open_issues": 11,
       "owner": "mehmetkahya0",
       "repo": "AI-Catalog",
       "stars": 500,
@@ -808,7 +933,7 @@
         "summarizer"
       ]
     },
-    "original_repository_sha": "0bc6866482b75fe14c6e096588430cf947cea9e4",
+    "original_repository_sha": "7abfa410125f5df85c02c892e3519b66cd524a72",
     "enhanced_repository": "enhansome/enhansome-AI-Catalog",
     "enhanced_repository_description": null,
     "title": "Awesome 🤖 Huge AI Catalog V3.0 with stars"
